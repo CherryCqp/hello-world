@@ -1,0 +1,7 @@
+ {
+     "phone": ["12345678", "87654321"], // 数组 
+     "name": "yuanzhifei89", // 字符串 
+     "age": 100, // 数值 
+     "address": { "country": "china", "province": "jiangsu" }, // 对象 
+     "married": false // 布尔值 
+ }
